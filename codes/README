@@ -7,7 +7,7 @@ Requirements
   libxml2 library (used for read xx.GraphML files)
 
 Overview Description
-  We give the codes of query generation, result evaluation and methods used in our paper. The other resources (data, query and result) are publicly available at  https://pan.baidu.com/s/1htG9TIk. Details can be found there. 
+  We give the codes of query generation, result evaluation and methods used in our paper. The other resources (data, query and result) are publicly available at https://pan.baidu.com/s/1htG9TIk. Details can be found there. 
 
 
 Description of the folder "codes"
